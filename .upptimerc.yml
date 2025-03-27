@@ -122,12 +122,20 @@ notifications:
       auth:
         user: support@lf.asn.au
         pass: ${{ secrets.SMTP_PASSWORD }}
-    subject: "🔴 Website Down: {{ name }}"
-    body: |
-      The site **{{ name }}** ({{ url }}) is currently **down**.
-      Checked at: {{ time }}
+    onIncident:
+      subject: "🔴 Website Down: {{ name }}"
+      body: |
+        ⚠️ **Alert:** The site **{{ name }}** ({{ url }}) is currently **down**.
+        ⏱ Checked at: {{ time }}
+        📉 Status code: {{ status }}
+        📊 Response time: {{ responseTime }}ms
 
-      — Upptime Monitor
+    onRecovery:
+      subject: "🟢 Website Back Online: {{ name }}"
+      body: |
+        ✅ **Good news!** The site **{{ name }}** ({{ url }}) is now **back online**.
+        ⏱ Checked at: {{ time }}
+        🚀 Response time: {{ responseTime }}ms
 
 
 # Upptime also supports notifications, assigning issues, and more
