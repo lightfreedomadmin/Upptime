@@ -122,6 +122,12 @@ notifications:
       auth:
         user: support@lf.asn.au
         pass: ${{ secrets.SMTP_PASSWORD }}
+    subject: "🔴 Website Down: {{ name }}"
+    body: |
+      The site **{{ name }}** ({{ url }}) is currently **down**.
+      Checked at: {{ time }}
+
+      — Upptime Monitor
 
 
 # Upptime also supports notifications, assigning issues, and more
