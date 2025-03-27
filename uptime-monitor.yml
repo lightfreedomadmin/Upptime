@@ -1,0 +1,39 @@
+name: Uptime Monitor with Email Alerts
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Runs every 5 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Uptime Check
+        id: uptime
+        uses: upptime/status@master
+
+      - name: Extract Failing Sites
+        if: failure()
+        run: |
+          echo "Checking which websites are down..."
+          DOWN_SITES=$(grep -B 2 "is down" SUMMARY.md | grep -oP '(?<=### ).*')
+          echo "DOWN_SITES=${DOWN_SITES}" >> $GITHUB_ENV
+          echo "Failing sites: $DOWN_SITES"
+
+      - name: Send Email Notification
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "🚨 Website(s) Down Alert!"
+          body: "The following website(s) are currently DOWN:\n\n${{ env.DOWN_SITES }}\n\nPlease check immediately!"
+          to: ${{ secrets.NOTIFICATION_EMAIL }}
+          from: ${{ secrets.SMTP_FROM }}
+          secure: true
