@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3464,
-    "timeDay": 3464,
-    "timeWeek": 3464,
-    "timeMonth": 3464,
-    "timeYear": 3464,
+    "time": 3581,
+    "timeDay": 3581,
+    "timeWeek": 3581,
+    "timeMonth": 3581,
+    "timeYear": 3581,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 779,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "time": 665,
+    "timeDay": 665,
+    "timeWeek": 665,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "In Mind Therapy",
+    "url": "https://www.inmindtherapy.com.au",
+    "icon": "https://icons.duckduckgo.com/ip3/www.inmindtherapy.com.au.ico",
+    "slug": "in-mind-therapy",
+    "status": "down",
+    "uptime": "90.84%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "90.84%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   }
 ]
