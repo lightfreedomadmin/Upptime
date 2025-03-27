@@ -113,7 +113,7 @@ status-website:
 
 notifications:
   email:
-    to: your@email.com  # Where notifications should go
+    to: support@lf.asn.au  # Where notifications should go
     from: support@lf.asn.au
     smtp:
       host: mail.lf.asn.au
