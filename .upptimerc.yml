@@ -111,5 +111,18 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+notifications:
+  email:
+    to: your@email.com  # Where notifications should go
+    from: support@lf.asn.au
+    smtp:
+      host: mail.lf.asn.au
+      port: 465
+      secure: true
+      auth:
+        user: support@lf.asn.au
+        pass: ${{ secrets.SMTP_PASSWORD }}
+
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
