@@ -10,7 +10,92 @@ sites:
     url: https://www.pipli.com.au
 
   - name: In Mind Therapy
-    url: https://www.inmindtherapy.com.au 
+    url: https://www.inmindtherapy.com.au
+    
+  - name: Budget Sign Panels
+    url: https://budgetsignpanels.com.au
+
+  - name: BusinessBrokers
+    url: https://businessbrokers.com.au
+
+  - name: Coverall.net.au
+    url: https://coverall.net.au
+
+  - name: CtoC.com.au
+    url: https://www.ctoc.com.au
+
+  - name: EliteMMA.net.au
+    url: https://www.elitemma.net.au
+
+  - name: ExpertAV.com.au
+    url: https://www.expertav.com.au
+
+  - name: hesn.com.au
+    url: https://hesn.com.au
+
+  - name: JohnLagoudakis.com
+    url: http://johnlagoudakis.com
+
+  - name: LF.asn.au
+    url: https://lf.asn.au
+
+  - name: LocalForYou.com
+    url: https://localforyou.com
+
+  - name: marriagematters.com.au
+    url: https://marriagematters.com.au
+
+  - name: MyBusinessValuation.com.au
+    url: http://www.mybusinessvaluation.com.au
+    
+  - name: Natures Trinity
+    url: http://naturestrinity.com
+
+  - name: nicksonbourke.com.au
+    url: https://nicksonbourke.com.au
+
+  - name: northsideheavymechanics.com.au
+    url: https://northsideheavymechanics.com.au
+
+  - name: PantexRoofing.Com.Au
+    url: https://pantexroofing.com.au
+
+  - name: Pinocchios.com.au
+    url: https://pinocchios.com.au
+
+  - name: qldflooring.com.au
+    url: https://qldflooring.com.au
+    
+  - name: QuantumMartialArts.com.au
+    url: https://quantummartialarts.com.au
+
+  - name: RappelMail.com
+    url: https://rappelmail.com
+
+  - name: SignAgeQLD.com.au
+    url: https://signageqld.com.au
+
+  - name: solutionsempowerment.org
+    url: https://solutionsempowerment.org
+
+  - name: towingchch.co.nz
+    url: https://www.towingchch.co.nz
+
+  - name: ValetMortgageBrokers.com
+    url: https://valetmortgagebrokers.com.au
+
+  - name: wm.com.au
+    url: https://wm.com.au
+
+  - name: xcllusive.com.au
+    url: https://www.xcllusive.com.au
+
+  - name: xcllusivestays.com.au
+    url: https://xcllusivestays.com.au
+
+  - name: yournextbigmove.com.au
+    url: https://yournextbigmove.com.au
+        
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
