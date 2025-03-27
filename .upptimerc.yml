@@ -34,7 +34,7 @@ sites:
     url: https://hesn.com.au
 
   - name: JohnLagoudakis.com
-    url: http://johnlagoudakis.com
+    url: https://johnlagoudakis.com
 
   - name: LF.asn.au
     url: https://lf.asn.au
@@ -46,10 +46,10 @@ sites:
     url: https://marriagematters.com.au
 
   - name: MyBusinessValuation.com.au
-    url: http://www.mybusinessvaluation.com.au
+    url: https://www.mybusinessvaluation.com.au
     
   - name: Natures Trinity
-    url: http://naturestrinity.com
+    url: https://naturestrinity.com
 
   - name: nicksonbourke.com.au
     url: https://nicksonbourke.com.au
