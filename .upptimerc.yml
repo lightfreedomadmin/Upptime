@@ -114,13 +114,13 @@ status-website:
 notifications:
   email:
     to: support@lf.asn.au  # Where notifications should go
-    from: support@lf.asn.au
+    from: github@lf.asn.au
     smtp:
       host: mail.lf.asn.au
-      port: 465
-      secure: true
+      port: 587
+      secure: false
       auth:
-        user: support@lf.asn.au
+        user: github@lf.asn.au
         pass: ${{ secrets.SMTP_PASSWORD }}
     onIncident:
       subject: "🔴 Website Down: {{ name }}"
