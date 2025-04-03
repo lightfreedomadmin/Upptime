@@ -30,9 +30,6 @@ sites:
   - name: ExpertAV.com.au
     url: https://www.expertav.com.au
 
-  - name: hesn.com.au
-    url: https://hesn.com.au
-
   - name: JohnLagoudakis.com
     url: https://johnlagoudakis.com
 
