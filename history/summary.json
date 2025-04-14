@@ -250,18 +250,19 @@
     "url": "https://www.mybusinessvaluation.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.mybusinessvaluation.com.au.ico",
     "slug": "my-business-valuation-com-au",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 4309,
     "timeDay": 4403,
     "timeWeek": 4248,
     "timeMonth": 4309,
     "timeYear": 4309,
     "dailyMinutesDown": {
+      "2025-04-14": 1,
       "2025-04-05": 145
     }
   },
@@ -520,9 +521,9 @@
     "url": "https://www.xcllusive.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.xcllusive.com.au.ico",
     "slug": "xcllusive-com-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.44%",
@@ -532,6 +533,7 @@
     "timeMonth": 2669,
     "timeYear": 2669,
     "dailyMinutesDown": {
+      "2025-04-14": 0,
       "2025-04-05": 143
     }
   },
