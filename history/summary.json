@@ -407,19 +407,19 @@
     "url": "https://quantummartialarts.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/quantummartialarts.com.au.ico",
     "slug": "quantum-martial-arts-com-au",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1424,
-    "timeDay": 1583,
-    "timeWeek": 1493,
-    "timeMonth": 1424,
-    "timeYear": 1424,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1426,
+    "timeDay": 1532,
+    "timeWeek": 1492,
+    "timeMonth": 1426,
+    "timeYear": 1426,
     "dailyMinutesDown": {
-      "2025-04-20": 0
+      "2025-04-20": 11
     }
   },
   {
