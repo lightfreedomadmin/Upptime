@@ -13,7 +13,7 @@
     "time": 3266,
     "timeDay": 4287,
     "timeWeek": 3824,
-    "timeMonth": 3291,
+    "timeMonth": 3248,
     "timeYear": 3266,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 647,
     "timeDay": 606,
     "timeWeek": 726,
-    "timeMonth": 699,
+    "timeMonth": 703,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2025-04-11": 41
@@ -51,7 +51,7 @@
     "time": 1609,
     "timeDay": 1756,
     "timeWeek": 1808,
-    "timeMonth": 1673,
+    "timeMonth": 1689,
     "timeYear": 1609,
     "dailyMinutesDown": {
       "2025-03-27": 252
@@ -71,7 +71,7 @@
     "time": 2214,
     "timeDay": 2206,
     "timeWeek": 1856,
-    "timeMonth": 2309,
+    "timeMonth": 2317,
     "timeYear": 2214,
     "dailyMinutesDown": {
       "2025-04-10": 43,
@@ -84,11 +84,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/businessbrokers.com.au.ico",
     "slug": "business-brokers",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 2748,
     "timeDay": 2711,
     "timeWeek": 3607,
@@ -116,7 +116,7 @@
     "time": 2526,
     "timeDay": 3135,
     "timeWeek": 2793,
-    "timeMonth": 2562,
+    "timeMonth": 2539,
     "timeYear": 2526,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 1553,
     "timeDay": 1942,
     "timeWeek": 1361,
-    "timeMonth": 1609,
+    "timeMonth": 1615,
     "timeYear": 1553,
     "dailyMinutesDown": {
       "2025-04-16": 62
@@ -154,7 +154,7 @@
     "time": 2013,
     "timeDay": 2196,
     "timeWeek": 1847,
-    "timeMonth": 2049,
+    "timeMonth": 2031,
     "timeYear": 2013,
     "dailyMinutesDown": {}
   },
@@ -172,7 +172,7 @@
     "time": 3678,
     "timeDay": 4111,
     "timeWeek": 3742,
-    "timeMonth": 3725,
+    "timeMonth": 3731,
     "timeYear": 3678,
     "dailyMinutesDown": {}
   },
@@ -190,7 +190,7 @@
     "time": 1467,
     "timeDay": 1478,
     "timeWeek": 1358,
-    "timeMonth": 1457,
+    "timeMonth": 1450,
     "timeYear": 1467,
     "dailyMinutesDown": {}
   },
@@ -208,7 +208,7 @@
     "time": 1549,
     "timeDay": 1758,
     "timeWeek": 1460,
-    "timeMonth": 1581,
+    "timeMonth": 1572,
     "timeYear": 1549,
     "dailyMinutesDown": {}
   },
@@ -226,7 +226,7 @@
     "time": 2028,
     "timeDay": 1726,
     "timeWeek": 2022,
-    "timeMonth": 2179,
+    "timeMonth": 2192,
     "timeYear": 2028,
     "dailyMinutesDown": {}
   },
@@ -244,7 +244,7 @@
     "time": 1531,
     "timeDay": 1796,
     "timeWeek": 1408,
-    "timeMonth": 1550,
+    "timeMonth": 1542,
     "timeYear": 1531,
     "dailyMinutesDown": {}
   },
@@ -254,15 +254,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mybusinessvaluation.com.au.ico",
     "slug": "my-business-valuation-com-au",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 4030,
     "timeDay": 3183,
     "timeWeek": 4638,
-    "timeMonth": 3967,
+    "timeMonth": 3998,
     "timeYear": 4030,
     "dailyMinutesDown": {
       "2025-04-29": 106,
@@ -285,7 +285,7 @@
     "time": 2523,
     "timeDay": 2566,
     "timeWeek": 2143,
-    "timeMonth": 2489,
+    "timeMonth": 2457,
     "timeYear": 2523,
     "dailyMinutesDown": {
       "2025-05-01": 101
@@ -305,7 +305,7 @@
     "time": 880,
     "timeDay": 1202,
     "timeWeek": 878,
-    "timeMonth": 938,
+    "timeMonth": 924,
     "timeYear": 880,
     "dailyMinutesDown": {}
   },
@@ -323,7 +323,7 @@
     "time": 1821,
     "timeDay": 2336,
     "timeWeek": 1752,
-    "timeMonth": 1819,
+    "timeMonth": 1803,
     "timeYear": 1821,
     "dailyMinutesDown": {
       "2025-05-01": 18
@@ -334,19 +334,19 @@
     "url": "https://pantexroofing.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/pantexroofing.com.au.ico",
     "slug": "pantex-roofing-com-au",
-    "status": "up",
-    "uptime": "93.24%",
-    "uptimeDay": "96.07%",
+    "status": "down",
+    "uptime": "93.28%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "94.85%",
-    "uptimeMonth": "94.24%",
-    "uptimeYear": "93.24%",
+    "uptimeMonth": "94.23%",
+    "uptimeYear": "93.28%",
     "time": 6425,
-    "timeDay": 6437,
-    "timeWeek": 6651,
-    "timeMonth": 6451,
+    "timeDay": 5587,
+    "timeWeek": 6606,
+    "timeMonth": 6475,
     "timeYear": 6425,
     "dailyMinutesDown": {
-      "2025-05-03": 19,
+      "2025-05-03": 20,
       "2025-05-02": 38,
       "2025-05-01": 55,
       "2025-04-30": 173,
@@ -384,7 +384,7 @@
     "time": 1510,
     "timeDay": 1533,
     "timeWeek": 1359,
-    "timeMonth": 1531,
+    "timeMonth": 1522,
     "timeYear": 1510,
     "dailyMinutesDown": {}
   },
@@ -393,16 +393,16 @@
     "url": "https://qldflooring.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/qldflooring.com.au.ico",
     "slug": "qldflooring-com-au",
-    "status": "up",
-    "uptime": "90.27%",
-    "uptimeDay": "96.14%",
+    "status": "down",
+    "uptime": "90.33%",
+    "uptimeDay": "98.68%",
     "uptimeWeek": "94.14%",
     "uptimeMonth": "91.54%",
-    "uptimeYear": "90.27%",
+    "uptimeYear": "90.33%",
     "time": 1640,
-    "timeDay": 1599,
-    "timeWeek": 1558,
-    "timeMonth": 1692,
+    "timeDay": 1630,
+    "timeWeek": 1548,
+    "timeMonth": 1693,
     "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-05-03": 19,
@@ -448,7 +448,7 @@
     "time": 1406,
     "timeDay": 1373,
     "timeWeek": 1277,
-    "timeMonth": 1455,
+    "timeMonth": 1459,
     "timeYear": 1406,
     "dailyMinutesDown": {
       "2025-04-25": 17
@@ -468,7 +468,7 @@
     "time": 907,
     "timeDay": 945,
     "timeWeek": 766,
-    "timeMonth": 925,
+    "timeMonth": 917,
     "timeYear": 907,
     "dailyMinutesDown": {}
   },
@@ -507,7 +507,7 @@
     "time": 697,
     "timeDay": 649,
     "timeWeek": 484,
-    "timeMonth": 797,
+    "timeMonth": 806,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-04-14": 52
@@ -527,7 +527,7 @@
     "time": 344,
     "timeDay": 290,
     "timeWeek": 379,
-    "timeMonth": 342,
+    "timeMonth": 347,
     "timeYear": 344,
     "dailyMinutesDown": {}
   },
@@ -545,7 +545,7 @@
     "time": 519,
     "timeDay": 769,
     "timeWeek": 508,
-    "timeMonth": 546,
+    "timeMonth": 543,
     "timeYear": 519,
     "dailyMinutesDown": {}
   },
@@ -563,7 +563,7 @@
     "time": 2558,
     "timeDay": 9227,
     "timeWeek": 3746,
-    "timeMonth": 2659,
+    "timeMonth": 2632,
     "timeYear": 2558,
     "dailyMinutesDown": {}
   },
@@ -581,7 +581,7 @@
     "time": 2744,
     "timeDay": 2549,
     "timeWeek": 2466,
-    "timeMonth": 2846,
+    "timeMonth": 2854,
     "timeYear": 2744,
     "dailyMinutesDown": {
       "2025-04-14": 39,
@@ -594,15 +594,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/xcllusivestays.com.au.ico",
     "slug": "xcllusivestays-com-au",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 2228,
     "timeDay": 2316,
     "timeWeek": 1877,
-    "timeMonth": 2306,
+    "timeMonth": 2309,
     "timeYear": 2228,
     "dailyMinutesDown": {
       "2025-04-16": 62,
@@ -627,7 +627,7 @@
     "time": 1647,
     "timeDay": 1744,
     "timeWeek": 1390,
-    "timeMonth": 1715,
+    "timeMonth": 1712,
     "timeYear": 1647,
     "dailyMinutesDown": {
       "2025-04-16": 62,
