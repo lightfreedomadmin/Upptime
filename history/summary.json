@@ -200,19 +200,19 @@
     "url": "https://lf.asn.au",
     "icon": "https://icons.duckduckgo.com/ip3/lf.asn.au.ico",
     "slug": "lf-asn-au",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1518,
-    "timeDay": 1016,
-    "timeWeek": 1334,
-    "timeMonth": 1526,
-    "timeYear": 1518,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1533,
+    "timeDay": 1422,
+    "timeWeek": 1434,
+    "timeMonth": 1548,
+    "timeYear": 1533,
     "dailyMinutesDown": {
-      "2025-05-06": 1
+      "2025-05-06": 12
     }
   },
   {
