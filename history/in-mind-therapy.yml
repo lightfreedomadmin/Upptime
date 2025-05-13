@@ -1,7 +1,7 @@
 url: https://www.inmindtherapy.com.au
-status: up
-code: 200
-responseTime: 1704
-lastUpdated: 2025-05-12T23:14:57.116Z
+status: down
+code: 503
+responseTime: 9834
+lastUpdated: 2025-05-13T06:50:35.046Z
 startTime: 2025-03-27T05:33:24.630Z
 generator: Upptime <https://github.com/upptime/upptime>
