@@ -320,19 +320,19 @@
     "url": "https://pantexroofing.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/pantexroofing.com.au.ico",
     "slug": "pantex-roofing-com-au",
-    "status": "up",
-    "uptime": "95.32%",
-    "uptimeDay": "92.39%",
+    "status": "down",
+    "uptime": "95.37%",
+    "uptimeDay": "95.04%",
     "uptimeWeek": "96.39%",
     "uptimeMonth": "95.18%",
-    "uptimeYear": "95.32%",
+    "uptimeYear": "95.37%",
     "time": 6813,
-    "timeDay": 6250,
+    "timeDay": 6202,
     "timeWeek": 6653,
-    "timeMonth": 7066,
+    "timeMonth": 7046,
     "timeYear": 6813,
     "dailyMinutesDown": {
-      "2025-05-28": 51,
+      "2025-05-28": 52,
       "2025-05-27": 102,
       "2025-05-26": 25,
       "2025-05-25": 93,
@@ -374,7 +374,7 @@
       "2025-04-19": 127,
       "2025-04-18": 576,
       "2025-04-17": 113,
-      "2025-04-16": 161
+      "2025-04-16": 130
     }
   },
   {
@@ -400,16 +400,16 @@
     "url": "https://qldflooring.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/qldflooring.com.au.ico",
     "slug": "qldflooring-com-au",
-    "status": "up",
-    "uptime": "96.64%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "95.79%",
+    "status": "down",
+    "uptime": "96.68%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "95.78%",
     "uptimeMonth": "93.86%",
-    "uptimeYear": "96.64%",
+    "uptimeYear": "96.68%",
     "time": 1669,
-    "timeDay": 1679,
+    "timeDay": 1676,
     "timeWeek": 1528,
-    "timeMonth": 1679,
+    "timeMonth": 1677,
     "timeYear": 1669,
     "dailyMinutesDown": {
       "2025-05-28": 50,
@@ -445,8 +445,7 @@
       "2025-04-28": 43,
       "2025-04-27": 103,
       "2025-04-26": 18,
-      "2025-04-25": 143,
-      "2025-04-24": 35
+      "2025-04-25": 143
     }
   },
   {
