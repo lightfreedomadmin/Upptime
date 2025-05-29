@@ -328,19 +328,19 @@
     "url": "https://pantexroofing.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/pantexroofing.com.au.ico",
     "slug": "pantex-roofing-com-au",
-    "status": "up",
-    "uptime": "95.39%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "95.87%",
+    "status": "down",
+    "uptime": "95.44%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "95.86%",
     "uptimeMonth": "95.12%",
-    "uptimeYear": "95.39%",
+    "uptimeYear": "95.44%",
     "time": 6797,
-    "timeDay": 5771,
+    "timeDay": 5420,
     "timeWeek": 6440,
     "timeMonth": 7009,
     "timeYear": 6797,
     "dailyMinutesDown": {
-      "2025-05-29": 71,
+      "2025-05-29": 72,
       "2025-05-28": 70,
       "2025-05-27": 102,
       "2025-05-26": 25,
@@ -383,7 +383,7 @@
       "2025-04-19": 127,
       "2025-04-18": 576,
       "2025-04-17": 113,
-      "2025-04-16": 86
+      "2025-04-16": 43
     }
   },
   {
@@ -409,14 +409,14 @@
     "url": "https://qldflooring.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/qldflooring.com.au.ico",
     "slug": "qldflooring-com-au",
-    "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "93.80%",
+    "status": "down",
+    "uptime": "96.75%",
+    "uptimeDay": "95.04%",
     "uptimeWeek": "95.26%",
     "uptimeMonth": "93.87%",
-    "uptimeYear": "96.69%",
+    "uptimeYear": "96.75%",
     "time": 1671,
-    "timeDay": 1776,
+    "timeDay": 1754,
     "timeWeek": 1554,
     "timeMonth": 1683,
     "timeYear": 1671,
@@ -455,7 +455,7 @@
       "2025-04-28": 43,
       "2025-04-27": 103,
       "2025-04-26": 18,
-      "2025-04-25": 94
+      "2025-04-25": 36
     }
   },
   {
@@ -466,12 +466,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.83%",
     "time": 1504,
     "timeDay": 1261,
-    "timeWeek": 1857,
+    "timeWeek": 1723,
     "timeMonth": 1592,
     "timeYear": 1504,
     "dailyMinutesDown": {
@@ -488,18 +488,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rappelmail.com.ico",
     "slug": "rappel-mail-com",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "78.33%",
-    "uptimeWeek": "96.90%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.59%",
+    "uptimeDay": "73.81%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.59%",
     "time": 892,
     "timeDay": 858,
     "timeWeek": 850,
     "timeMonth": 856,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2025-05-29": 312
+      "2025-05-29": 377
     }
   },
   {
