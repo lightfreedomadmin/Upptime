@@ -132,10 +132,10 @@
     "url": "https://www.ctoc.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.ctoc.com.au.ico",
     "slug": "cto-c-com-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1506,
@@ -144,6 +144,7 @@
     "timeMonth": 1418,
     "timeYear": 1506,
     "dailyMinutesDown": {
+      "2025-05-29": 1,
       "2025-04-16": 62
     }
   },
@@ -332,12 +333,12 @@
     "uptime": "95.41%",
     "uptimeDay": "93.20%",
     "uptimeWeek": "95.60%",
-    "uptimeMonth": "95.07%",
+    "uptimeMonth": "95.11%",
     "uptimeYear": "95.41%",
     "time": 6797,
     "timeDay": 5765,
     "timeWeek": 6450,
-    "timeMonth": 7008,
+    "timeMonth": 7007,
     "timeYear": 6797,
     "dailyMinutesDown": {
       "2025-05-29": 98,
@@ -413,12 +414,12 @@
     "uptime": "96.73%",
     "uptimeDay": "93.26%",
     "uptimeWeek": "95.00%",
-    "uptimeMonth": "93.82%",
+    "uptimeMonth": "93.85%",
     "uptimeYear": "96.73%",
     "time": 1672,
     "timeDay": 1839,
     "timeWeek": 1567,
-    "timeMonth": 1685,
+    "timeMonth": 1686,
     "timeYear": 1672,
     "dailyMinutesDown": {
       "2025-05-29": 97,
@@ -488,18 +489,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rappelmail.com.ico",
     "slug": "rappel-mail-com",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "72.00%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.54%",
+    "uptimeDay": "70.57%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.54%",
     "time": 892,
     "timeDay": 858,
     "timeWeek": 850,
     "timeMonth": 856,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2025-05-29": 403
+      "2025-05-29": 424
     }
   },
   {
