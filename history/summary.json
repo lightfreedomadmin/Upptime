@@ -263,12 +263,12 @@
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 3712,
     "timeDay": 2428,
     "timeWeek": 2973,
-    "timeMonth": 3285,
+    "timeMonth": 3234,
     "timeYear": 3712,
     "dailyMinutesDown": {
       "2025-04-29": 106,
@@ -320,18 +320,19 @@
     "url": "https://pantexroofing.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/pantexroofing.com.au.ico",
     "slug": "pantex-roofing-com-au",
-    "status": "up",
-    "uptime": "95.36%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "96.21%",
+    "status": "down",
+    "uptime": "95.41%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "96.20%",
     "uptimeMonth": "95.13%",
-    "uptimeYear": "95.36%",
+    "uptimeYear": "95.41%",
     "time": 6816,
     "timeDay": 6372,
     "timeWeek": 6609,
     "timeMonth": 7048,
     "timeYear": 6816,
     "dailyMinutesDown": {
+      "2025-05-29": 1,
       "2025-05-28": 70,
       "2025-05-27": 102,
       "2025-05-26": 25,
@@ -374,7 +375,7 @@
       "2025-04-19": 127,
       "2025-04-18": 576,
       "2025-04-17": 113,
-      "2025-04-16": 130
+      "2025-04-16": 86
     }
   },
   {
@@ -400,18 +401,19 @@
     "url": "https://qldflooring.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/qldflooring.com.au.ico",
     "slug": "qldflooring-com-au",
-    "status": "up",
-    "uptime": "96.67%",
-    "uptimeDay": "95.25%",
+    "status": "down",
+    "uptime": "96.72%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "95.60%",
     "uptimeMonth": "93.82%",
-    "uptimeYear": "96.67%",
+    "uptimeYear": "96.72%",
     "time": 1672,
     "timeDay": 1814,
     "timeWeek": 1560,
     "timeMonth": 1684,
     "timeYear": 1672,
     "dailyMinutesDown": {
+      "2025-05-29": 0,
       "2025-05-28": 68,
       "2025-05-27": 148,
       "2025-05-26": 25,
@@ -445,7 +447,7 @@
       "2025-04-28": 43,
       "2025-04-27": 103,
       "2025-04-26": 18,
-      "2025-04-25": 143
+      "2025-04-25": 94
     }
   },
   {
