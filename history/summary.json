@@ -190,18 +190,20 @@
     "url": "https://johnlagoudakis.com",
     "icon": "https://icons.duckduckgo.com/ip3/johnlagoudakis.com.ico",
     "slug": "john-lagoudakis-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1512,
-    "timeDay": 1682,
-    "timeWeek": 1470,
-    "timeMonth": 1567,
-    "timeYear": 1512,
-    "dailyMinutesDown": {}
+    "time": 1511,
+    "timeDay": 1537,
+    "timeWeek": 1461,
+    "timeMonth": 1562,
+    "timeYear": 1511,
+    "dailyMinutesDown": {
+      "2025-05-29": 1
+    }
   },
   {
     "name": "LF.asn.au",
@@ -408,11 +410,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qldflooring.com.au.ico",
     "slug": "qldflooring-com-au",
     "status": "up",
-    "uptime": "96.68%",
+    "uptime": "96.69%",
     "uptimeDay": "93.80%",
     "uptimeWeek": "95.26%",
     "uptimeMonth": "93.87%",
-    "uptimeYear": "96.68%",
+    "uptimeYear": "96.69%",
     "time": 1671,
     "timeDay": 1776,
     "timeWeek": 1554,
@@ -486,18 +488,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rappelmail.com.ico",
     "slug": "rappel-mail-com",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "84.12%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.72%",
+    "uptimeDay": "82.42%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.72%",
     "time": 892,
     "timeDay": 858,
     "timeWeek": 850,
     "timeMonth": 856,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2025-05-29": 229
+      "2025-05-29": 253
     }
   },
   {
