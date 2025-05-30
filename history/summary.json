@@ -191,18 +191,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/johnlagoudakis.com.ico",
     "slug": "john-lagoudakis-com",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.86%",
+    "uptimeDay": "90.81%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.86%",
     "time": 1512,
     "timeDay": 1506,
     "timeWeek": 1475,
     "timeMonth": 1576,
     "timeYear": 1512,
     "dailyMinutesDown": {
-      "2025-05-29": 60
+      "2025-05-30": 71,
+      "2025-05-29": 61
     }
   },
   {
@@ -332,7 +333,7 @@
     "uptime": "95.42%",
     "uptimeDay": "93.20%",
     "uptimeWeek": "95.60%",
-    "uptimeMonth": "95.11%",
+    "uptimeMonth": "95.28%",
     "uptimeYear": "95.42%",
     "time": 6796,
     "timeDay": 5526,
@@ -413,7 +414,7 @@
     "uptime": "96.73%",
     "uptimeDay": "93.26%",
     "uptimeWeek": "95.00%",
-    "uptimeMonth": "93.86%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "96.73%",
     "time": 1672,
     "timeDay": 1686,
@@ -488,18 +489,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rappelmail.com.ico",
     "slug": "rappel-mail-com",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "65.41%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.38%",
+    "uptimeDay": "60.36%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.38%",
     "time": 892,
     "timeDay": 828,
     "timeWeek": 842,
     "timeMonth": 863,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2025-05-29": 498
+      "2025-05-30": 72,
+      "2025-05-29": 499
     }
   },
   {
