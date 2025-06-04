@@ -598,18 +598,20 @@
     "url": "https://valetmortgagebrokers.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/valetmortgagebrokers.com.au.ico",
     "slug": "valet-mortgage-brokers-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 312,
-    "timeWeek": 633,
-    "timeMonth": 525,
-    "timeYear": 525,
-    "dailyMinutesDown": {}
+    "time": 522,
+    "timeDay": 315,
+    "timeWeek": 594,
+    "timeMonth": 518,
+    "timeYear": 522,
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   },
   {
     "name": "wm.com.au",
