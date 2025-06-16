@@ -1,7 +1,7 @@
 url: https://www.hdsbrisbane.com.au
-status: up
-code: 200
-responseTime: 4302
-lastUpdated: 2025-06-15T23:14:45.296Z
+status: down
+code: 415
+responseTime: 901
+lastUpdated: 2025-06-16T05:31:03.660Z
 startTime: 2025-03-26T08:27:07.830Z
 generator: Upptime <https://github.com/upptime/upptime>
